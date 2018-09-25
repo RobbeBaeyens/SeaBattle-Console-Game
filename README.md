@@ -1,6 +1,7 @@
 # SeaBattle-Console-Game
 SeaBattle Game made in C# to play in console screen.
-- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `WARNING !   Language = Dutch !`
+
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `WARNING: Language = Dutch` ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)
 
 # Play game by downloading this:
 http://bit.do/SeaBattle_Console_Game or go to Zeeslag2/bin/Debug/zeeslag v3
