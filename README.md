@@ -1,6 +1,9 @@
 # SeaBattle-Console-Game
 SeaBattle Game made in C# to play in console screen.
 ```Diff
++ Singleplayer & Multiplayer(one screen)
++ Sounds
++ Error Handling
 - WARNING Language = Dutch only
 ```
 
