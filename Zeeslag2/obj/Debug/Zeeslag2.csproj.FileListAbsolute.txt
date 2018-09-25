@@ -1,0 +1,56 @@
+D:\Docs en data\Desktop\Zeeslag2\Zeeslag2\bin\Debug\Zeeslag2.exe.config
+D:\Docs en data\Desktop\Zeeslag2\Zeeslag2\bin\Debug\Zeeslag2.exe
+D:\Docs en data\Desktop\Zeeslag2\Zeeslag2\bin\Debug\Zeeslag2.pdb
+D:\Docs en data\Desktop\Zeeslag2\Zeeslag2\obj\Debug\Zeeslag2.csprojResolveAssemblyReference.cache
+D:\Docs en data\Desktop\Zeeslag2\Zeeslag2\obj\Debug\Zeeslag2.csproj.CoreCompileInputs.cache
+D:\Docs en data\Desktop\Zeeslag2\Zeeslag2\obj\Debug\Zeeslag2.exe
+D:\Docs en data\Desktop\Zeeslag2\Zeeslag2\obj\Debug\Zeeslag2.pdb
+C:\Users\as\Google Drive\Thomas More\C#\Zeeslag2\Zeeslag2\bin\Debug\Zeeslag2.exe.config
+C:\Users\as\Google Drive\Thomas More\C#\Zeeslag2\Zeeslag2\bin\Debug\Zeeslag2.exe
+C:\Users\as\Google Drive\Thomas More\C#\Zeeslag2\Zeeslag2\bin\Debug\Zeeslag2.pdb
+C:\Users\as\Google Drive\Thomas More\C#\Zeeslag2\Zeeslag2\obj\Debug\Zeeslag2.csprojResolveAssemblyReference.cache
+C:\Users\as\Google Drive\Thomas More\C#\Zeeslag2\Zeeslag2\obj\Debug\Zeeslag2.csproj.CoreCompileInputs.cache
+C:\Users\as\Google Drive\Thomas More\C#\Zeeslag2\Zeeslag2\obj\Debug\Zeeslag2.exe
+C:\Users\as\Google Drive\Thomas More\C#\Zeeslag2\Zeeslag2\obj\Debug\Zeeslag2.pdb
+C:\Users\Asus\Google Drive\Thomas More\C#\Zeeslag2\Zeeslag2\bin\Debug\Zeeslag2.exe.config
+C:\Users\Asus\Google Drive\Thomas More\C#\Zeeslag2\Zeeslag2\bin\Debug\Zeeslag2.exe
+C:\Users\Asus\Google Drive\Thomas More\C#\Zeeslag2\Zeeslag2\bin\Debug\Zeeslag2.pdb
+C:\Users\Asus\Google Drive\Thomas More\C#\Zeeslag2\Zeeslag2\obj\Debug\Zeeslag2.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Google Drive\Thomas More\C#\Zeeslag2\Zeeslag2\obj\Debug\Zeeslag2.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Google Drive\Thomas More\C#\Zeeslag2\Zeeslag2\obj\Debug\Zeeslag2.exe
+C:\Users\Asus\Google Drive\Thomas More\C#\Zeeslag2\Zeeslag2\obj\Debug\Zeeslag2.pdb
+C:\Users\Asus\Google Drive\Thomas More\C#\zelf\Zeeslag2\Zeeslag2\bin\Debug\Zeeslag2.exe.config
+C:\Users\Asus\Google Drive\Thomas More\C#\zelf\Zeeslag2\Zeeslag2\bin\Debug\Zeeslag2.exe
+C:\Users\Asus\Google Drive\Thomas More\C#\zelf\Zeeslag2\Zeeslag2\bin\Debug\Zeeslag2.pdb
+C:\Users\Asus\Google Drive\Thomas More\C#\zelf\Zeeslag2\Zeeslag2\obj\Debug\Zeeslag2.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Google Drive\Thomas More\C#\zelf\Zeeslag2\Zeeslag2\obj\Debug\Zeeslag2.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Google Drive\Thomas More\C#\zelf\Zeeslag2\Zeeslag2\obj\Debug\Zeeslag2.exe
+C:\Users\Asus\Google Drive\Thomas More\C#\zelf\Zeeslag2\Zeeslag2\obj\Debug\Zeeslag2.pdb
+C:\Users\Asus\Google Drive\Thomas More\Semester 1\C#\zelf\Zeeslag2\Zeeslag2\bin\Debug\Zeeslag2.exe.config
+C:\Users\Asus\Google Drive\Thomas More\Semester 1\C#\zelf\Zeeslag2\Zeeslag2\bin\Debug\Zeeslag2.exe
+C:\Users\Asus\Google Drive\Thomas More\Semester 1\C#\zelf\Zeeslag2\Zeeslag2\bin\Debug\Zeeslag2.pdb
+C:\Users\Asus\Google Drive\Thomas More\Semester 1\C#\zelf\Zeeslag2\Zeeslag2\obj\Debug\Zeeslag2.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Google Drive\Thomas More\Semester 1\C#\zelf\Zeeslag2\Zeeslag2\obj\Debug\Zeeslag2.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Google Drive\Thomas More\Semester 1\C#\zelf\Zeeslag2\Zeeslag2\obj\Debug\Zeeslag2.exe
+C:\Users\Asus\Google Drive\Thomas More\Semester 1\C#\zelf\Zeeslag2\Zeeslag2\obj\Debug\Zeeslag2.pdb
+C:\Users\Asus\Google Drive\Thomas More\Semester 1\C#\zelf\Zeeslag3\Zeeslag2\bin\Debug\Zeeslag2.exe.config
+C:\Users\Asus\Google Drive\Thomas More\Semester 1\C#\zelf\Zeeslag3\Zeeslag2\bin\Debug\Zeeslag2.exe
+C:\Users\Asus\Google Drive\Thomas More\Semester 1\C#\zelf\Zeeslag3\Zeeslag2\bin\Debug\Zeeslag2.pdb
+C:\Users\Asus\Google Drive\Thomas More\Semester 1\C#\zelf\Zeeslag3\Zeeslag2\obj\Debug\Zeeslag2.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Google Drive\Thomas More\Semester 1\C#\zelf\Zeeslag3\Zeeslag2\obj\Debug\Zeeslag2.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Google Drive\Thomas More\Semester 1\C#\zelf\Zeeslag3\Zeeslag2\obj\Debug\Zeeslag2.exe
+C:\Users\Asus\Google Drive\Thomas More\Semester 1\C#\zelf\Zeeslag3\Zeeslag2\obj\Debug\Zeeslag2.pdb
+C:\Users\as\Google Drive\Thomas More\Semester 1\C#\zelf\Zeeslag3\Zeeslag2\bin\Debug\Zeeslag2.exe.config
+C:\Users\as\Google Drive\Thomas More\Semester 1\C#\zelf\Zeeslag3\Zeeslag2\bin\Debug\Zeeslag2.exe
+C:\Users\as\Google Drive\Thomas More\Semester 1\C#\zelf\Zeeslag3\Zeeslag2\bin\Debug\Zeeslag2.pdb
+C:\Users\as\Google Drive\Thomas More\Semester 1\C#\zelf\Zeeslag3\Zeeslag2\obj\Debug\Zeeslag2.csprojResolveAssemblyReference.cache
+C:\Users\as\Google Drive\Thomas More\Semester 1\C#\zelf\Zeeslag3\Zeeslag2\obj\Debug\Zeeslag2.csproj.CoreCompileInputs.cache
+C:\Users\as\Google Drive\Thomas More\Semester 1\C#\zelf\Zeeslag3\Zeeslag2\obj\Debug\Zeeslag2.exe
+C:\Users\as\Google Drive\Thomas More\Semester 1\C#\zelf\Zeeslag3\Zeeslag2\obj\Debug\Zeeslag2.pdb
+C:\Users\as\Google Drive\Thomas More\Semester 1\C#\zelf\Zeeslag3\Zeeslag2\obj\Debug\Zeeslag2.Properties.Resources.resources
+C:\Users\as\Google Drive\Thomas More\Semester 1\C#\zelf\Zeeslag3\Zeeslag2\obj\Debug\Zeeslag2.csproj.GenerateResource.Cache
+C:\Users\as\Google Drive\Thomas More\Semester 1\C#\zelf\Zeeslag3\Zeeslag2\bin\Debug\bin\Debug\error.wav
+C:\Users\as\Google Drive\Thomas More\Semester 1\C#\zelf\Zeeslag3\Zeeslag2\bin\Debug\bin\Debug\explosion.wav
+C:\Users\as\Google Drive\Thomas More\Semester 1\C#\zelf\Zeeslag3\Zeeslag2\bin\Debug\bin\Debug\pchit.wav
+C:\Users\as\Google Drive\Thomas More\Semester 1\C#\zelf\Zeeslag3\Zeeslag2\bin\Debug\bin\Debug\pchit-old.wav
+C:\Users\as\Google Drive\Thomas More\Semester 1\C#\zelf\Zeeslag3\Zeeslag2\bin\Debug\bin\Debug\splash.wav
